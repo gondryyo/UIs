@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cainos/Pixel Art Top Down - Basic/Scene/UI 2.unity
+    guid: 9cbe7d05a66b22e4191e218baee3677c
   m_configObjects: {}
